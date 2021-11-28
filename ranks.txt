@@ -10,6 +10,3 @@ s1imetim3:tester
 pancakesan:tester
 darksplice:tester
 jackulator:tester
-#
-# Giveaway Winners
-pizzapie52:giveaway1
