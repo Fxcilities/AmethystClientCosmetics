@@ -1,1 +1,1 @@
-"# This file contains a list of IGN's that are banned" 
+# This file contains a list of IGN's that are banned
