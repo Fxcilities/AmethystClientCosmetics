@@ -2,7 +2,7 @@
 #
 # Staff
 crvnberry:owner
-nobraincells08:owner
+nobraincells08:coowner
 fxcilities:developer
 #
 # Testers
