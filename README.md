@@ -1,1 +1,1 @@
-"# Tiny user cdn for Amethyst Client" 
+# Tiny user cdn for Amethyst Client
