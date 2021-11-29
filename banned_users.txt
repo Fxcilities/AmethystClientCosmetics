@@ -1,1 +1,2 @@
 # This file contains a list of IGN's that are banned
+Amethyst
