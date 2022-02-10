@@ -3,7 +3,6 @@
 # Staff
 
 crvnberry:owner
-nobraincells08:owner
 
 fxcilities:developer
 cringemuch:developer
