@@ -10,8 +10,10 @@ cringemuch:developer
 pedzioo:developer
 
 
+miosgaming:admin
+
 # Testers
-s1imetim3:tester
+slimeydan:tester
 pancakesan:tester
 darksplice:tester
 jackulator:tester
