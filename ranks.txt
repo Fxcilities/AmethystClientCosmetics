@@ -7,8 +7,7 @@ gia_afton:coowner
 
 fxcilities:developer
 cringemuch:developer
-
-pedzioo:admin
+pedzioo:developer
 
 
 # Testers
