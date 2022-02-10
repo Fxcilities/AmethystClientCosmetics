@@ -1,9 +1,15 @@
 # This file contains player ign's and their corsponding ranks/positions on Amethyst Client
 #
 # Staff
+
 crvnberry:owner
-nobraincells08:coowner
+nobraincells08:owner
+
 fxcilities:developer
+cringemuch:developer
+
+pedzioo:admin
+
 #
 # Testers
 s1imetim3:tester
