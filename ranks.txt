@@ -3,6 +3,7 @@
 # Staff
 
 crvnberry:owner
+gia_afton:coowner
 
 fxcilities:developer
 cringemuch:developer
