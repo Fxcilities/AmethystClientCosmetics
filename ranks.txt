@@ -7,8 +7,6 @@ gia_afton:coowner
 
 fxcilities:developer
 cringemuch:developer
-pedzioo:developer
-
 
 miosgaming:admin
 
