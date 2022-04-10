@@ -5,7 +5,8 @@
 crvnberry:owner
 gia_afton:coowner
 
-fxcilities:developer
+fxcilities:leaddeveloper
+
 cringemuch:developer
 
 miosgaming:admin
