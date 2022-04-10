@@ -5,7 +5,7 @@
 crvnberry:owner
 gia_afton:coowner
 
-fxcilities:leaddeveloper
+fxcilities:lead_developer
 
 cringemuch:developer
 
